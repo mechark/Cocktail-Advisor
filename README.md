@@ -15,9 +15,9 @@ Simply run `uv sync` from the root directory
 
 At the root directory of the project run the following command:
 `python -m http.server $port`
-This will start the UI server
+This will start the frontend server
 
-Head to `http://localhost:$port/` to see the UI!
+Head to `http://localhost:$port/` to see it!
 
 ### Start Backend server 
 
